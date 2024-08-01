@@ -1,0 +1,9 @@
+* cl-robdd
+
+Implementation of ROBDD, Reduced Ordered Binary Decision Diagram
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/jimka2001/cl-robdd.git |
+| commit  | c918d70                                       |
+| systems | cl-robdd                                      |
+|---------+-----------------------------------------------|
