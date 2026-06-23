@@ -7,4 +7,4 @@ Implementation of ROBDD, Reduced Ordered Binary Decision Diagram
 | commit  | 876064f                                       |
 | systems | cl-robdd                                      |
 |---------+-----------------------------------------------|
- 
+  
